@@ -1,0 +1,27 @@
+{
+  "name": "exist-ceremony-reel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EXIST — Collection Cérémonie · 25 s and 15 s cinematic Reels (academic concept)",
+  "type": "commonjs",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "assets": "../tools/prepare-assets.sh",
+    "audio": "node ../tools/build-audio.mjs",
+    "render:master": "node scripts/render.mjs master",
+    "render:cutdown": "node scripts/render.mjs cutdown",
+    "render": "npm run build && npm run render:master && npm run render:cutdown",
+    "still": "node scripts/still.mjs",
+    "poster": "node scripts/poster.mjs",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.0",
+    "@types/react": "^19.0.0",
+    "@types/node": "^22.0.0"
+  }
+}

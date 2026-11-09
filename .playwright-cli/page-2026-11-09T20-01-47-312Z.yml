@@ -1,0 +1,237 @@
+- generic [active] [ref=f3e1]:
+  - main [ref=f3e2]:
+    - generic [ref=f3e4]:
+      - link "EXIST — Retour en haut" [ref=f3e5] [cursor=pointer]:
+        - /url: "#top"
+        - img "EXIST" [ref=f3e6]
+        - generic "Costume 3 pièces Slim-Fit" [ref=f3e8]:
+          - generic [ref=f3e11]:
+            - text: Costume 3 Pièces
+            - emphasis [ref=f3e12]: Slim-Fit
+      - navigation "Navigation principale" [ref=f3e13]:
+        - link "Le costume" [ref=f3e14] [cursor=pointer]:
+          - /url: "#product"
+        - link "Cérémonies" [ref=f3e15] [cursor=pointer]:
+          - /url: "#occasions"
+        - link "Guide des tailles" [ref=f3e16] [cursor=pointer]:
+          - /url: "#fit"
+        - link "Accessoires" [ref=f3e17] [cursor=pointer]:
+          - /url: "#accessories"
+      - generic [ref=f3e18]:
+        - button "Ouvrir le guide des tailles" [ref=f3e19] [cursor=pointer]
+        - link "Visiter le site officiel EXIST" [ref=f3e23] [cursor=pointer]:
+          - /url: https://www.exist.com.tn/
+        - link "Voir les costumes sur EXIST" [ref=f3e26] [cursor=pointer]:
+          - /url: https://www.exist.com.tn/221-costumes-blazers
+    - generic [ref=f3e30]:
+      - generic [ref=f3e34]:
+        - generic [ref=f3e35]:
+          - text: COLLECTION CÉRÉMONIE
+          - generic [ref=f3e37]: / CONCEPT 2026
+        - heading "Le Costume 3 Pièces Slim-Fit." [level=1] [ref=f3e38]:
+          - generic [ref=f3e39]: Le Costume
+          - generic [ref=f3e41]: 3 Pièces Slim-Fit.
+        - generic [ref=f3e43]:
+          - paragraph [ref=f3e44]: L’alliance entre élégance et modernité, pour les moments où chaque détail compte.
+          - generic [ref=f3e45]:
+            - link "Découvrir le costume" [ref=f3e46] [cursor=pointer]:
+              - /url: "#product"
+            - button "Voir le film" [ref=f3e50] [cursor=pointer]
+          - generic "Détails du costume" [ref=f3e54]:
+            - img "Texture du tissu" [ref=f3e55]
+            - img "Finition des boutons" [ref=f3e56]
+            - img "Nœud de cravate" [ref=f3e57]
+      - generic [ref=f3e59]: 01 / 03
+      - link "Faire défiler vers les avantages" [ref=f3e64] [cursor=pointer]:
+        - /url: "#benefits"
+        - generic [ref=f3e65]: SCROLLER
+      - generic [ref=f3e68]: PROJET ACADÉMIQUE · NON OFFICIEL
+    - region "Atouts du costume" [ref=f3e69]:
+      - generic [ref=f3e70]:
+        - generic [ref=f3e74]:
+          - strong [ref=f3e75]: Coupe Slim-Fit
+          - generic [ref=f3e76]: Silhouette affirmée
+        - generic [ref=f3e82]:
+          - strong [ref=f3e83]: Trois pièces
+          - generic [ref=f3e84]: Veste, gilet et pantalon
+        - generic [ref=f3e89]:
+          - strong [ref=f3e90]: Finitions soignées
+          - generic [ref=f3e91]: L’élégance des détails
+        - generic [ref=f3e95]:
+          - strong [ref=f3e96]: Pour vos événements
+          - generic [ref=f3e97]: Mariage, fiançailles, business
+    - generic [ref=f3e98]:
+      - generic [ref=f3e99]:
+        - generic [ref=f3e100]:
+          - generic [ref=f3e101]: LE COSTUME TROIS PIÈCES
+          - heading "L’élégance dans les détails." [level=2] [ref=f3e103]:
+            - generic [ref=f3e104]: L’élégance
+            - emphasis [ref=f3e108]: dans les détails.
+          - paragraph [ref=f3e109]: Une coupe structurée, une allure moderne et trois pièces à associer pour vos moments les plus marquants.
+          - list [ref=f3e110]:
+            - listitem [ref=f3e111]: Veste structurée
+            - listitem [ref=f3e114]: Gilet assorti
+            - listitem [ref=f3e117]: Pantalon Slim-Fit
+            - listitem [ref=f3e120]: Finitions soignées
+          - link "Voir les modèles EXIST" [ref=f3e123] [cursor=pointer]:
+            - /url: https://www.exist.com.tn/221-costumes-blazers
+        - generic [ref=f3e126]:
+          - group "Vues du produit" [ref=f3e128]:
+            - button "Costume 3 pièces" [pressed] [ref=f3e129] [cursor=pointer]
+            - button "Finitions" [ref=f3e130] [cursor=pointer]
+            - button "En cérémonie" [ref=f3e131] [cursor=pointer]
+          - img "Costume 3 pièces" [ref=f3e134]
+          - button "Image précédente" [ref=f3e135] [cursor=pointer]
+          - button "Image suivante" [ref=f3e138] [cursor=pointer]
+          - generic [ref=f3e141]:
+            - text: VUE INTERACTIVE
+            - generic [ref=f3e147]: ·
+            - text: SILHOUETTE
+        - generic [ref=f3e148]:
+          - img "Gros plan sur le tissu, la surpiqûre et les boutons du costume" [ref=f3e150]
+          - generic [ref=f3e151]: 01 / 03
+          - heading "Les détails qui font la différence." [level=3] [ref=f3e152]: Les détailsqui font la différence.
+          - paragraph [ref=f3e153]: Des textures aux finitions, une esthétique pensée pour les occasions importantes.
+      - paragraph [ref=f3e154]: "Visuels illustratifs de concept : le modèle présenté ne constitue pas une fiche produit officielle d’EXIST."
+    - generic [ref=f3e155]:
+      - generic [ref=f3e156]:
+        - generic [ref=f3e157]:
+          - generic [ref=f3e158]: VOS GRANDS MOMENTS
+          - heading "Un costume, plusieurs occasions." [level=2] [ref=f3e160]:
+            - generic [ref=f3e161]: Un costume,
+            - emphasis [ref=f3e165]: plusieurs
+            - generic [ref=f3e166]: occasions.
+          - paragraph [ref=f3e169]: Une même silhouette, différentes façons de vous distinguer.
+        - generic [ref=f3e170]:
+          - button "Inspiration mariage 01 / 03 Mariage Élégance et distinction" [pressed] [ref=f3e171] [cursor=pointer]:
+            - img "Inspiration mariage" [ref=f3e172]
+            - generic [ref=f3e174]: 01 / 03
+            - generic [ref=f3e175]:
+              - generic [ref=f3e176]: Mariage
+              - generic [ref=f3e177]: Élégance et distinction
+          - button "Inspiration fiançailles 02 / 03 Fiançailles Un style inoubliable" [ref=f3e181] [cursor=pointer]:
+            - img "Inspiration fiançailles" [ref=f3e182]
+            - generic [ref=f3e184]: 02 / 03
+            - generic [ref=f3e185]:
+              - generic [ref=f3e186]: Fiançailles
+              - generic [ref=f3e187]: Un style inoubliable
+          - button "Inspiration événement pro 03 / 03 Événement pro Confiance et prestance" [ref=f3e191] [cursor=pointer]:
+            - img "Inspiration événement pro" [ref=f3e192]
+            - generic [ref=f3e194]: 03 / 03
+            - generic [ref=f3e195]:
+              - generic [ref=f3e196]: Événement pro
+              - generic [ref=f3e197]: Confiance et prestance
+      - generic "Sélection de l'occasion" [ref=f3e201]
+    - region "Les détails de fabrication" [ref=f3e203]:
+      - generic [ref=f3e207]:
+        - generic [ref=f3e208]:
+          - generic [ref=f3e209]: "02"
+          - generic [ref=f3e211]: LES DÉTAILS
+        - generic [ref=f3e212]:
+          - heading "Le tissu se souvient du geste." [level=2] [ref=f3e213]:
+            - generic [ref=f3e214]: Le tissu
+            - emphasis [ref=f3e218]: se souvient
+            - generic [ref=f3e219]: du geste.
+          - paragraph [ref=f3e221]: Une laine travaillée, des boutons alignés à la main, une boutonnière qui tient la ligne. Ce que l’on remarque sans savoir pourquoi.
+          - generic [ref=f3e222]:
+            - generic [ref=f3e223]:
+              - term [ref=f3e224]: Matière
+              - definition [ref=f3e225]: Laine et mélanges fins
+            - generic [ref=f3e226]:
+              - term [ref=f3e227]: Boutons
+              - definition [ref=f3e228]: Finition satinée
+            - generic [ref=f3e229]:
+              - term [ref=f3e230]: Surpiqûre
+              - definition [ref=f3e231]: Point régulier, sans tension
+    - generic [ref=f3e235]:
+      - generic [ref=f3e236]:
+        - generic [ref=f3e237]: VOTRE COUPE
+        - heading "Trouvez votre taille idéale." [level=2] [ref=f3e239]:
+          - generic [ref=f3e240]: Trouvez votre
+          - emphasis [ref=f3e244]: taille idéale.
+        - paragraph [ref=f3e245]: Une estimation simple pour préparer votre essayage, avant de confirmer votre taille en boutique.
+      - generic [ref=f3e246]:
+        - generic [ref=f3e247]:
+          - generic [ref=f3e255]: "01"
+          - strong [ref=f3e256]: Prenez vos mesures
+          - generic [ref=f3e257]: Poitrine, taille et stature.
+        - generic [ref=f3e260]:
+          - generic [ref=f3e263]: "02"
+          - strong [ref=f3e264]: Obtenez une estimation
+          - generic [ref=f3e265]: Une indication de taille en quelques clics.
+        - generic [ref=f3e268]:
+          - generic [ref=f3e275]: "03"
+          - strong [ref=f3e276]: Essayez en magasin
+          - generic [ref=f3e277]: Confirmez la coupe avant l’achat.
+      - button "Guide des tailles" [ref=f3e279] [cursor=pointer]
+    - generic [ref=f3e284]:
+      - generic [ref=f3e285]:
+        - generic [ref=f3e286]: L’ART DU DÉTAIL
+        - heading "Complétez votre look." [level=2] [ref=f3e288]:
+          - generic [ref=f3e289]: Complétez
+          - emphasis [ref=f3e293]: votre look.
+        - paragraph [ref=f3e294]: Les détails qui font toute la différence.
+      - generic [ref=f3e295]:
+        - link "Chemises Chemises Une base impeccable" [ref=f3e296] [cursor=pointer]:
+          - /url: https://www.exist.com.tn/
+          - img "Chemises" [ref=f3e298]
+          - generic [ref=f3e300]:
+            - strong [ref=f3e301]: Chemises
+            - generic [ref=f3e302]: Une base impeccable
+        - link "Cravates Cravates La touche de caractère" [ref=f3e305] [cursor=pointer]:
+          - /url: https://www.exist.com.tn/
+          - img "Cravates" [ref=f3e307]
+          - generic [ref=f3e309]:
+            - strong [ref=f3e310]: Cravates
+            - generic [ref=f3e311]: La touche de caractère
+        - link "Chaussures Chaussures Le détail qui affirme" [ref=f3e314] [cursor=pointer]:
+          - /url: https://www.exist.com.tn/
+          - img "Chaussures" [ref=f3e316]
+          - generic [ref=f3e318]:
+            - strong [ref=f3e319]: Chaussures
+            - generic [ref=f3e320]: Le détail qui affirme
+        - link "Boutons de manchette Boutons de manchette Une finition soignée" [ref=f3e323] [cursor=pointer]:
+          - /url: https://www.exist.com.tn/
+          - img "Boutons de manchette" [ref=f3e325]
+          - generic [ref=f3e327]:
+            - strong [ref=f3e328]: Boutons de manchette
+            - generic [ref=f3e329]: Une finition soignée
+    - generic [ref=f3e333]:
+      - heading "Pourquoi choisir EXIST ?" [level=2] [ref=f3e335]: Pourquoichoisir EXIST ?
+      - generic [ref=f3e343]:
+        - strong [ref=f3e344]: Livraison offerte
+        - generic [ref=f3e345]: Selon les conditions du site officiel
+      - generic [ref=f3e352]:
+        - strong [ref=f3e353]: Click & Collect
+        - generic [ref=f3e354]: Essayage et paiement en boutique
+      - generic [ref=f3e359]:
+        - strong [ref=f3e360]: Retours et échanges
+        - generic [ref=f3e361]: Selon les conditions EXIST en vigueur
+      - generic [ref=f3e366]:
+        - strong [ref=f3e367]: Achat sur EXIST
+        - generic [ref=f3e368]: Commande sur la boutique officielle
+    - generic [ref=f3e373]:
+      - img "EXIST" [ref=f3e375]
+      - generic [ref=f3e376]: C O L L E C T I O N C É R É M O N I E
+      - heading "Affirmez votre allure. Marquez le moment." [level=2] [ref=f3e377]:
+        - generic [ref=f3e378]: Affirmez votre allure.
+        - emphasis [ref=f3e382]: Marquez le moment.
+      - paragraph [ref=f3e383]: Découvrez les costumes disponibles sur la boutique officielle.
+      - link "Découvrir la collection" [ref=f3e385] [cursor=pointer]:
+        - /url: https://www.exist.com.tn/221-costumes-blazers
+    - generic [ref=f3e389]:
+      - generic [ref=f3e390]:
+        - generic [ref=f3e391]:
+          - img "EXIST" [ref=f3e392]
+          - paragraph [ref=f3e393]: You can’t resist…
+        - generic [ref=f3e394]:
+          - link "Haut de page" [ref=f3e395] [cursor=pointer]:
+            - /url: "#top"
+          - link "Le costume" [ref=f3e396] [cursor=pointer]:
+            - /url: "#product"
+          - link "Guide des tailles" [ref=f3e397] [cursor=pointer]:
+            - /url: "#fit"
+          - link "EXIST officiel ↗" [ref=f3e398] [cursor=pointer]:
+            - /url: https://www.exist.com.tn/
+      - generic [ref=f3e399]: PROJET UNIVERSITAIRE DE MARKETING DIGITAL · MAQUETTE NON OFFICIELLE, NON AFFILIÉE À EXIST · VISUELS CONCEPTUELS
+  - button "Open Next.js Dev Tools" [ref=f3e405] [cursor=pointer]
