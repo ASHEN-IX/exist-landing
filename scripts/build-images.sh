@@ -10,7 +10,8 @@ render () {
 }
 
 render hero hero-model
-render suit suit-product
+magick "$SRC/suit-transparent.png" -resize '1672x1672>' \
+  -quality 92 -define webp:alpha-quality=100 "$OUT/suit-product-transparent.webp"
 render tailoring tailoring-detail
 render tailoring cloth-footer
 for occasion in wedding engagement business; do

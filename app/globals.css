@@ -644,6 +644,7 @@ h2 { letter-spacing: -0.048em; }
   filter: drop-shadow(0 20px 22px rgba(39, 32, 37, .16));
 }
 
+.product-image-wrap.product-cutout { mix-blend-mode: normal; }
 .product-main-image { object-fit: cover; object-position: center; }
 .product-main-image.product-full-suit { object-fit: contain; }
 

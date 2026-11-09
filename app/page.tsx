@@ -39,7 +39,7 @@ const CATEGORY_URL = "https://www.exist.com.tn/221-costumes-blazers";
 const OFFICIAL_URL = "https://www.exist.com.tn/";
 
 const GALLERY = [
-  { src: "/images/suit-product-hq.webp", label: "Costume 3 pièces", type: "Silhouette" },
+  { src: "/images/suit-product-transparent.webp", label: "Costume 3 pièces", type: "Silhouette" },
   { src: "/images/tailoring-detail-hq.webp", label: "Finitions", type: "Détails" },
   { src: "/images/wedding-look-hq.webp", label: "En cérémonie", type: "Inspiration" },
 ] as const;
@@ -333,7 +333,7 @@ function ProductShowcase() {
           >
             <AnimatePresence mode="wait">
               <motion.div
-                className="product-image-wrap"
+                className={`product-image-wrap${active === 0 ? " product-cutout" : ""}`}
                 key={active}
                 initial={{ opacity: 0, scale: 0.96 }}
                 animate={{ opacity: 1, scale: 1 }}
