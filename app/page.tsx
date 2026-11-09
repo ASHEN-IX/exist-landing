@@ -55,7 +55,7 @@ const ACCESSORIES = [
   { title: "Chemises", src: "/images/shirt-hq.webp", label: "Une base impeccable" },
   { title: "Cravates", src: "/images/tie-hq.webp", label: "La touche de caractère" },
   { title: "Chaussures", src: "/images/shoes-hq.webp", label: "Le détail qui affirme" },
-  { title: "Boutons de manchette", src: "/images/cufflinks-hq.webp", label: "Une finition soignée" },
+  { title: "Boutons de manchette", src: "/images/cufflinks-studio-hq.webp", label: "Une finition soignée" },
 ] as const;
 
 /* -------------------------------------------------------------------------

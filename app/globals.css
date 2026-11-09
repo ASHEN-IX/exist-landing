@@ -941,7 +941,7 @@ h2 { letter-spacing: -0.048em; }
 .accessory-card:hover { border-color: rgba(221, 21, 56, .48); transform: translateY(-5px); }
 
 .accessory-image { position: relative; aspect-ratio: 1.7; margin: 7px; overflow: hidden; border-radius: 4px; }
-.accessory-image img { object-fit: cover; object-position: center 38%; mix-blend-mode: lighten; }
+.accessory-image img { object-fit: contain; object-position: center; }
 .accessory-info { display: flex; align-items: center; justify-content: space-between; padding: 6px 14px 16px; }
 .accessory-info > div { display: flex; flex-direction: column; gap: 6px; }
 .accessory-info strong { font-size: 12px; }

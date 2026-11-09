@@ -17,9 +17,10 @@ for occasion in wedding engagement business; do
   render "$occasion" "occasion-$occasion"
   render "$occasion" "$occasion-look"
 done
-for accessory in shirt tie shoes cufflinks; do
+for accessory in shirt tie shoes; do
   render "$accessory" "$accessory" '1200x1200>'
 done
+render cufflinks cufflinks-studio '1200x1200>'
 magick "$SRC/tailoring.png" -gravity west -crop 500x500+0+200 +repage \
   -resize 216x216 -quality 92 "$OUT/hero-fabric-hq.webp"
 magick "$SRC/tailoring.png" -crop 390x390+1150+390 +repage \
